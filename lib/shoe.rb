@@ -1,2 +1,2 @@
 class Shoe
-  def initialize(brand, color,  )
+  def initialize(brand, color, size, material, condition)
