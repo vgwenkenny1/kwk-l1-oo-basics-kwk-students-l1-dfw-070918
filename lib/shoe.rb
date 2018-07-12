@@ -7,4 +7,4 @@ class Shoe
     @condition = condition
   end
   
-  shoe_one = shoe.new("Adidas", )
+  shoe_one = shoe.new("Adidas")
