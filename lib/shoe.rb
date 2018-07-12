@@ -41,7 +41,6 @@ class Shoe
   
   def cobble
     puts "Your shoe is as good as new!"
-    puts "Makes the shoe's condition new!"
   end 
     
     
