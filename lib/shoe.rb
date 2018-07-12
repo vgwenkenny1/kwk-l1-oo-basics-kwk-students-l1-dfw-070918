@@ -1,5 +1,7 @@
 class Shoe
-  def initialize(bra
+  def initialize(brand)
+    @brand = brand
+  end
   
   
 
