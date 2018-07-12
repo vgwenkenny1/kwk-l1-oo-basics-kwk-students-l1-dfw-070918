@@ -6,6 +6,6 @@ class Shoe
     @material = material
     @condition = condition
   end
-end
+
   
   shoe_one = shoe.new("Adidas")
