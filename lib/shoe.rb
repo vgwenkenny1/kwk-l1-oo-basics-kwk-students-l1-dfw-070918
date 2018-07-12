@@ -1,2 +1,2 @@
 class Shoe
-  
+  def initialize()
